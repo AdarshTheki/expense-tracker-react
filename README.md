@@ -9,7 +9,11 @@ Keep track of income and expenses. Add and remove items and save to local storag
 - Delete items from DOM
 - Persist to local storage
 
-![img](expense-tracker-react.png)
+<!-- ![img](expense-tracker-react.png) -->
+<div style="text-align:center;">
+<img src="./expense-tracker-react.png" alt="Image description" width="500">
+</div>
+
 
 ## Run Locally
 
